@@ -44,7 +44,6 @@ namespace GrafikaAlap
             
             if (v.Count == 4)
             {
-                //g.DrawBezier3(penCurve, v[0], v[1], v[2], v[3]);
                 g.DrawBezier3P(penCurve, v[0], v[1], v[2], v[3], lambda);
                 label1.Text = "[" + v[0].x.ToString() + ";" + v[0].y + "]";
                 label3.Text = "[" + v[1].x.ToString() + ";" + v[1].y + "]";
