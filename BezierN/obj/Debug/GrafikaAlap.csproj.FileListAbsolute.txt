@@ -1,0 +1,118 @@
+C:\Temp\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaAlap.exe.config
+C:\Temp\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaAlap.exe
+C:\Temp\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaAlap.pdb
+C:\Temp\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaDLL.dll
+C:\Temp\BevGraf - C\GrafikaAlap\bin\Debug\GrafikaDLL.pdb
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.AssemblyReference.cache
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.Form1.resources
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.Properties.Resources.resources
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.GenerateResource.cache
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.CoreCompileInputs.cache
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.CopyComplete
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.exe
+C:\Temp\BevGraf - C\GrafikaAlap\obj\Debug\GrafikaAlap.pdb
+C:\Users\Troll Ede\Downloads\BevGraf - C\08_HermiteIv\bin\Debug\GrafikaAlap.exe.config
+C:\Users\Troll Ede\Downloads\BevGraf - C\08_HermiteIv\bin\Debug\GrafikaAlap.exe
+C:\Users\Troll Ede\Downloads\BevGraf - C\08_HermiteIv\bin\Debug\GrafikaAlap.pdb
+C:\Users\Troll Ede\Downloads\BevGraf - C\08_HermiteIv\bin\Debug\GrafikaDLL.dll
+C:\Users\Troll Ede\Downloads\BevGraf - C\08_HermiteIv\bin\Debug\GrafikaDLL.pdb
+C:\Users\Troll Ede\Downloads\BevGraf - C\08_HermiteIv\obj\Debug\GrafikaAlap.csproj.AssemblyReference.cache
+C:\Users\Troll Ede\Downloads\BevGraf - C\08_HermiteIv\obj\Debug\GrafikaAlap.Form1.resources
+C:\Users\Troll Ede\Downloads\BevGraf - C\08_HermiteIv\obj\Debug\GrafikaAlap.Properties.Resources.resources
+C:\Users\Troll Ede\Downloads\BevGraf - C\08_HermiteIv\obj\Debug\GrafikaAlap.csproj.GenerateResource.cache
+C:\Users\Troll Ede\Downloads\BevGraf - C\08_HermiteIv\obj\Debug\GrafikaAlap.csproj.CoreCompileInputs.cache
+C:\Users\Troll Ede\Downloads\BevGraf - C\08_HermiteIv\obj\Debug\GrafikaAlap.csproj.CopyComplete
+C:\Users\Troll Ede\Downloads\BevGraf - C\08_HermiteIv\obj\Debug\GrafikaAlap.exe
+C:\Users\Troll Ede\Downloads\BevGraf - C\08_HermiteIv\obj\Debug\GrafikaAlap.pdb
+C:\Temp\BevGraf - C\08_HermiteIv\bin\Debug\GrafikaAlap.exe.config
+C:\Temp\BevGraf - C\08_HermiteIv\bin\Debug\GrafikaAlap.exe
+C:\Temp\BevGraf - C\08_HermiteIv\bin\Debug\GrafikaAlap.pdb
+C:\Temp\BevGraf - C\08_HermiteIv\bin\Debug\GrafikaDLL.dll
+C:\Temp\BevGraf - C\08_HermiteIv\bin\Debug\GrafikaDLL.pdb
+C:\Temp\BevGraf - C\08_HermiteIv\obj\Debug\GrafikaAlap.csproj.AssemblyReference.cache
+C:\Temp\BevGraf - C\08_HermiteIv\obj\Debug\GrafikaAlap.Form1.resources
+C:\Temp\BevGraf - C\08_HermiteIv\obj\Debug\GrafikaAlap.Properties.Resources.resources
+C:\Temp\BevGraf - C\08_HermiteIv\obj\Debug\GrafikaAlap.csproj.GenerateResource.cache
+C:\Temp\BevGraf - C\08_HermiteIv\obj\Debug\GrafikaAlap.csproj.CoreCompileInputs.cache
+C:\Temp\BevGraf - C\08_HermiteIv\obj\Debug\GrafikaAlap.csproj.CopyComplete
+C:\Temp\BevGraf - C\08_HermiteIv\obj\Debug\GrafikaAlap.exe
+C:\Temp\BevGraf - C\08_HermiteIv\obj\Debug\GrafikaAlap.pdb
+C:\Temp\BevGraf - C\10_HermiteGorbe\bin\Debug\GrafikaAlap.exe.config
+C:\Temp\BevGraf - C\10_HermiteGorbe\bin\Debug\GrafikaAlap.exe
+C:\Temp\BevGraf - C\10_HermiteGorbe\bin\Debug\GrafikaAlap.pdb
+C:\Temp\BevGraf - C\10_HermiteGorbe\bin\Debug\GrafikaDLL.dll
+C:\Temp\BevGraf - C\10_HermiteGorbe\bin\Debug\GrafikaDLL.pdb
+C:\Temp\BevGraf - C\10_HermiteGorbe\obj\Debug\GrafikaAlap.csproj.AssemblyReference.cache
+C:\Temp\BevGraf - C\10_HermiteGorbe\obj\Debug\GrafikaAlap.Form1.resources
+C:\Temp\BevGraf - C\10_HermiteGorbe\obj\Debug\GrafikaAlap.Properties.Resources.resources
+C:\Temp\BevGraf - C\10_HermiteGorbe\obj\Debug\GrafikaAlap.csproj.GenerateResource.cache
+C:\Temp\BevGraf - C\10_HermiteGorbe\obj\Debug\GrafikaAlap.csproj.CoreCompileInputs.cache
+C:\Temp\BevGraf - C\10_HermiteGorbe\obj\Debug\GrafikaAlap.csproj.CopyComplete
+C:\Temp\BevGraf - C\10_HermiteGorbe\obj\Debug\GrafikaAlap.exe
+C:\Temp\BevGraf - C\10_HermiteGorbe\obj\Debug\GrafikaAlap.pdb
+C:\Temp\BevGraf - C\11_Bezier3\bin\Debug\GrafikaAlap.exe.config
+C:\Temp\BevGraf - C\11_Bezier3\bin\Debug\GrafikaAlap.exe
+C:\Temp\BevGraf - C\11_Bezier3\bin\Debug\GrafikaAlap.pdb
+C:\Temp\BevGraf - C\11_Bezier3\bin\Debug\GrafikaDLL.dll
+C:\Temp\BevGraf - C\11_Bezier3\bin\Debug\GrafikaDLL.pdb
+C:\Temp\BevGraf - C\11_Bezier3\obj\Debug\GrafikaAlap.csproj.AssemblyReference.cache
+C:\Temp\BevGraf - C\11_Bezier3\obj\Debug\GrafikaAlap.Form1.resources
+C:\Temp\BevGraf - C\11_Bezier3\obj\Debug\GrafikaAlap.Properties.Resources.resources
+C:\Temp\BevGraf - C\11_Bezier3\obj\Debug\GrafikaAlap.csproj.GenerateResource.cache
+C:\Temp\BevGraf - C\11_Bezier3\obj\Debug\GrafikaAlap.csproj.CoreCompileInputs.cache
+C:\Temp\BevGraf - C\11_Bezier3\obj\Debug\GrafikaAlap.csproj.CopyComplete
+C:\Temp\BevGraf - C\11_Bezier3\obj\Debug\GrafikaAlap.exe
+C:\Temp\BevGraf - C\11_Bezier3\obj\Debug\GrafikaAlap.pdb
+C:\Users\Futo Richard\Desktop\5_Ötödik félév\Bevezetés a számítógépi grafikába gy\6. óra\11_Bezier3\bin\Debug\GrafikaAlap.exe.config
+C:\Users\Futo Richard\Desktop\5_Ötödik félév\Bevezetés a számítógépi grafikába gy\6. óra\11_Bezier3\bin\Debug\GrafikaAlap.exe
+C:\Users\Futo Richard\Desktop\5_Ötödik félév\Bevezetés a számítógépi grafikába gy\6. óra\11_Bezier3\bin\Debug\GrafikaAlap.pdb
+C:\Users\Futo Richard\Desktop\5_Ötödik félév\Bevezetés a számítógépi grafikába gy\6. óra\11_Bezier3\bin\Debug\Grafika_DLL.dll
+C:\Users\Futo Richard\Desktop\5_Ötödik félév\Bevezetés a számítógépi grafikába gy\6. óra\11_Bezier3\bin\Debug\Grafika_DLL.pdb
+C:\Users\Futo Richard\Desktop\5_Ötödik félév\Bevezetés a számítógépi grafikába gy\6. óra\11_Bezier3\obj\Debug\GrafikaAlap.csproj.AssemblyReference.cache
+C:\Users\Futo Richard\Desktop\5_Ötödik félév\Bevezetés a számítógépi grafikába gy\6. óra\11_Bezier3\obj\Debug\GrafikaAlap.Form1.resources
+C:\Users\Futo Richard\Desktop\5_Ötödik félév\Bevezetés a számítógépi grafikába gy\6. óra\11_Bezier3\obj\Debug\GrafikaAlap.Properties.Resources.resources
+C:\Users\Futo Richard\Desktop\5_Ötödik félév\Bevezetés a számítógépi grafikába gy\6. óra\11_Bezier3\obj\Debug\GrafikaAlap.csproj.GenerateResource.cache
+C:\Users\Futo Richard\Desktop\5_Ötödik félév\Bevezetés a számítógépi grafikába gy\6. óra\11_Bezier3\obj\Debug\GrafikaAlap.csproj.CoreCompileInputs.cache
+C:\Users\Futo Richard\Desktop\5_Ötödik félév\Bevezetés a számítógépi grafikába gy\6. óra\11_Bezier3\obj\Debug\GrafikaAlap.csproj.CopyComplete
+C:\Users\Futo Richard\Desktop\5_Ötödik félév\Bevezetés a számítógépi grafikába gy\6. óra\11_Bezier3\obj\Debug\GrafikaAlap.exe
+C:\Users\Futo Richard\Desktop\5_Ötödik félév\Bevezetés a számítógépi grafikába gy\6. óra\11_Bezier3\obj\Debug\GrafikaAlap.pdb
+C:\Users\Futo Richard\Desktop\11_Bezier3\bin\Debug\GrafikaAlap.exe.config
+C:\Users\Futo Richard\Desktop\11_Bezier3\bin\Debug\GrafikaAlap.exe
+C:\Users\Futo Richard\Desktop\11_Bezier3\bin\Debug\GrafikaAlap.pdb
+C:\Users\Futo Richard\Desktop\11_Bezier3\obj\Debug\GrafikaAlap.csproj.AssemblyReference.cache
+C:\Users\Futo Richard\Desktop\11_Bezier3\obj\Debug\GrafikaAlap.Form1.resources
+C:\Users\Futo Richard\Desktop\11_Bezier3\obj\Debug\GrafikaAlap.Properties.Resources.resources
+C:\Users\Futo Richard\Desktop\11_Bezier3\obj\Debug\GrafikaAlap.csproj.GenerateResource.cache
+C:\Users\Futo Richard\Desktop\11_Bezier3\obj\Debug\GrafikaAlap.csproj.CoreCompileInputs.cache
+C:\Users\Futo Richard\Desktop\11_Bezier3\obj\Debug\GrafikaAlap.exe
+C:\Users\Futo Richard\Desktop\11_Bezier3\obj\Debug\GrafikaAlap.pdb
+C:\Users\Futo Richard\Desktop\Bezier3\bin\Debug\GrafikaAlap.exe.config
+C:\Users\Futo Richard\Desktop\Bezier3\bin\Debug\GrafikaAlap.exe
+C:\Users\Futo Richard\Desktop\Bezier3\bin\Debug\GrafikaAlap.pdb
+C:\Users\Futo Richard\Desktop\Bezier3\obj\Debug\GrafikaAlap.csproj.AssemblyReference.cache
+C:\Users\Futo Richard\Desktop\Bezier3\obj\Debug\GrafikaAlap.Form1.resources
+C:\Users\Futo Richard\Desktop\Bezier3\obj\Debug\GrafikaAlap.Properties.Resources.resources
+C:\Users\Futo Richard\Desktop\Bezier3\obj\Debug\GrafikaAlap.csproj.GenerateResource.cache
+C:\Users\Futo Richard\Desktop\Bezier3\obj\Debug\GrafikaAlap.csproj.CoreCompileInputs.cache
+C:\Users\Futo Richard\Desktop\Bezier3\obj\Debug\GrafikaAlap.exe
+C:\Users\Futo Richard\Desktop\Bezier3\obj\Debug\GrafikaAlap.pdb
+C:\Users\Futo Richard\Desktop\Bezier3 másolata\bin\Debug\GrafikaAlap.exe.config
+C:\Users\Futo Richard\Desktop\Bezier3 másolata\bin\Debug\GrafikaAlap.exe
+C:\Users\Futo Richard\Desktop\Bezier3 másolata\bin\Debug\GrafikaAlap.pdb
+C:\Users\Futo Richard\Desktop\Bezier3 másolata\obj\Debug\GrafikaAlap.csproj.AssemblyReference.cache
+C:\Users\Futo Richard\Desktop\Bezier3 másolata\obj\Debug\GrafikaAlap.Form1.resources
+C:\Users\Futo Richard\Desktop\Bezier3 másolata\obj\Debug\GrafikaAlap.Properties.Resources.resources
+C:\Users\Futo Richard\Desktop\Bezier3 másolata\obj\Debug\GrafikaAlap.csproj.GenerateResource.cache
+C:\Users\Futo Richard\Desktop\Bezier3 másolata\obj\Debug\GrafikaAlap.csproj.CoreCompileInputs.cache
+C:\Users\Futo Richard\Desktop\Bezier3 másolata\obj\Debug\GrafikaAlap.exe
+C:\Users\Futo Richard\Desktop\Bezier3 másolata\obj\Debug\GrafikaAlap.pdb
+C:\Users\Futo Richard\Desktop\BezierN\bin\Debug\GrafikaAlap.exe.config
+C:\Users\Futo Richard\Desktop\BezierN\bin\Debug\GrafikaAlap.exe
+C:\Users\Futo Richard\Desktop\BezierN\bin\Debug\GrafikaAlap.pdb
+C:\Users\Futo Richard\Desktop\BezierN\obj\Debug\GrafikaAlap.csproj.AssemblyReference.cache
+C:\Users\Futo Richard\Desktop\BezierN\obj\Debug\GrafikaAlap.Form1.resources
+C:\Users\Futo Richard\Desktop\BezierN\obj\Debug\GrafikaAlap.Properties.Resources.resources
+C:\Users\Futo Richard\Desktop\BezierN\obj\Debug\GrafikaAlap.csproj.GenerateResource.cache
+C:\Users\Futo Richard\Desktop\BezierN\obj\Debug\GrafikaAlap.csproj.CoreCompileInputs.cache
+C:\Users\Futo Richard\Desktop\BezierN\obj\Debug\GrafikaAlap.exe
+C:\Users\Futo Richard\Desktop\BezierN\obj\Debug\GrafikaAlap.pdb
